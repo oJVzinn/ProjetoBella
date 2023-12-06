@@ -1,0 +1,109 @@
+body {
+    background-image: url("imagens/fundo.png");
+}
+
+
+#nav-bar {
+    display: flex;
+    background-color: #bab9bd;
+    height: 80px;
+    width: 900px;
+    align-items: center;
+}
+
+.nav-bar-item {
+    text-decoration: none;
+    font-weight: bold;
+    color: #614399;
+    margin: 50% 20px 50% 20px;
+
+}
+
+.nav-bar-separetor {
+    margin: 50% 0 50% 0;
+    font-weight: bold;
+}
+
+#about-bella {
+    background-color: azure;
+    width: 900px;
+    margin: 0 0 300px 0;
+    margin-top: -15px;
+}
+
+.about-bella-title {
+    color: #bab9bd;
+    padding: 20px 0 0 20px;
+}
+
+.about-bella-content {
+    padding: 0 0 20px 20px;
+}
+
+#camp-pub {
+    background-color: azure;
+    width: 880px;
+    margin: 0 0 300px 0;
+    margin-top: -15px;
+    padding: 0 0 0 20px;
+}
+
+.camp-pub-title {
+    color: #bab9bd;
+    padding: 20px 0 0 0;
+}
+
+.camp-pub-content {
+    padding: 0 0 20px 0;
+}
+
+.camp-pub-img {
+    border: solid #bab9bd 10px;
+}
+
+#contat {
+    background-color: azure;
+    width: 880px;
+    margin: 0 0 300px 0;
+    margin-top: -15px;
+    padding: 0 0 0 20px;
+}
+
+.contat-title {
+    color: #bab9bd;
+    padding: 20px 0 0 0;
+}
+
+.contat-content {
+    padding: 0 0 20px 0;
+}
+
+.contat-img {
+    border: solid #bab9bd 10px;
+}
+
+#bio {
+    background-color: azure;
+    width: 880px;
+    margin: 0 0 300px 0;
+    margin-top: -15px;
+    padding: 0 0 0 20px;
+}
+
+.bio-title {
+    color: #bab9bd;
+    padding: 20px 0 0 0;
+}
+
+.bio-content {
+    padding: 0 0 20px 0;
+}
+
+.bio-img {
+    border: solid #bab9bd 10px;
+}
+
+#rodape-copyright {
+    margin-top: -280px;
+    margin-left: 350px;
+}
